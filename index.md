@@ -4,5 +4,6 @@
 
 layout: home
 ---
-This my personal website.   
-*It is still under construction!!*
+**This is my personal website.**   
+*Still under construction!!*   
+[Curriculum vitae](/about/)
