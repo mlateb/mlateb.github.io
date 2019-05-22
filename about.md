@@ -9,8 +9,8 @@ Focuse is on Open Source solutions, Python geospatial libraries, QGIS, linux, Ve
 
 ## CV
 
-| Language  | Online                                    | DOC                                        | PDF                                     |
-| --------- | ----------------------------------------- | ------------------------------------------ | --------------------------------------- |
-| English   | [HTML_EN](/resume/resume_en.html)    | [DOC_EN](/resume/resume_en.doc)       | [PDF_EN](/resume/resume_en.pdf)    |
-| French       | [HTML_FR](/resume/resume_fr.html) | [DOC_FR](/resume/resume_fr.doc)    | [PDF_FR](/resume/resume_fr.pdf) |
+| Language  | Online                            | PDF                           | DOC                            | ODT                            |
+| --------- | --------------------------------- | ----------------------------- | -------------------------------|--------------------------------|
+| English   | [HTML_EN](/resume/resume_en.html) |[PDF_EN](/resume/resume_en.pdf)| [DOC_EN](/resume/resume_en.doc)| [ODT_EN](/resume/resume_en.odt)|
+| French    | [HTML_FR](/resume/resume_fr.html) |[PDF_FR](/resume/resume_fr.pdf)| [DOC_FR](/resume/resume_fr.doc)| [ODT_FR](/resume/resume_fr.odt)|
 
