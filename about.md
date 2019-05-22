@@ -11,6 +11,6 @@ Focuse is on Open Source solutions, Python geospatial libraries, QGIS, linux, Ve
 
 | Language  | Online                                    | DOC                                        | PDF                                     |
 | --------- | ----------------------------------------- | ------------------------------------------ | --------------------------------------- |
-| English   | [HTML_EN](/assets/cv/mustapha_lateb_resume.html)    | [DOC_EN](/assets/cv/mustapha_lateb_resume.doc)       | [PDF_EN](/assets/cv/mustapha_lateb_resume.pdf)    |
-| French       | [HTML_FR](/assets/cv/mustapha_lateb_resume_fr.html) | [DOC_FR](/assets/cv/mustapha_lateb_resume_fr.doc)    | [PDF_FR](/assets/cv/mustapha_lateb_resume_fr.pdf) |
+| English   | [HTML_EN](/resume/resume_en.html)    | [DOC_EN](/resume/resume_en.doc)       | [PDF_EN](/resume/resume_en.pdf)    |
+| French       | [HTML_FR](/resume/resume_fr.html) | [DOC_FR](/resume/resume_fr.doc)    | [PDF_FR](/resume/resume_fr.pdf) |
 
