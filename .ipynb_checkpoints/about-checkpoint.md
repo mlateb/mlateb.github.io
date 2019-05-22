@@ -11,6 +11,6 @@ Focuse is on Open Source solutions, Python geospatial libraries, QGIS, linux, Ve
 
 | Language  | Online                            | PDF                           | DOC                            | ODT                            |
 | --------- | --------------------------------- | ----------------------------- | -------------------------------|--------------------------------|
-| English   | [HTML_EN](/resume/index.html) |[PDF_EN](/resume/resume_en.pdf)| [DOC_EN](/resume/resume_en.doc)| [ODT_EN](/resume/resume_en.odt)|
-| French    | [HTML_FR](/resume/resume_fr.html) |[PDF_FR](/resume/resume_fr.pdf)| [DOC_FR](/resume/resume_fr.doc)| [ODT_FR](/resume/resume_fr.odt)|
+| English   | [HTML_EN](/resume/index.html) |[PDF_EN](/resume/mlateb_cv_en.pdf)| [DOC_EN](/resume/mlateb_cv_en.doc)| [ODT_EN](/resume/mlateb_cv_en.odt)|
+| French    | [HTML_FR](/resume/mlateb_cv_fr.html) |[PDF_FR](/resume/mlateb_cv_fr.pdf)| [DOC_FR](/resume/mlateb_cv_fr.doc)| [ODT_FR](/resume/mlateb_cv_fr.odt)|
 
