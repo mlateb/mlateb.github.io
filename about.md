@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /about/
 ---
-My updated CVs in English, French and Kabyle and four different formats are presented in the table below. 
+My updated CV, in English, French and Kabyle, and in four different formats, is presented in the table below. 
 
 | Language  | Online                            | PDF                           | DOC                            | ODT                            |
 | --------- | --------------------------------- | ----------------------------- | -------------------------------|--------------------------------|
