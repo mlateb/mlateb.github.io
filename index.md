@@ -8,17 +8,18 @@ layout: home
 <div style="float: right;">
 <img  style="margin: 5px;"  src="/assets/profile_300.jpg">   
 </div>
-
-Hi! I'm Mustapha Lateb.
+   
+   
+Hi! I'm Mustapha Lateb.   
 ===
    
 Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
   
-I like to investigate new Image Processing, Machine Learning, Statistics, Timeseries Analysis techniques.  
+Fun of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
    
-I preferably use Open Source solutions (e.g. Python geospatial libraries, QGIS, Bash, Git, SQL, HTML, CSS).   
+My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.   
    
-I work as **Researcher** at *Mediterranean Agronomic Institute of Chania* [MAICh](https://www.iamc.ciheam.org/) and **PhD student** at *Mouloud Mammeri University of Tizi-Ouzou* [UMMTO](http://www.ummto.dz/).   
+I work as **Researcher** at *Mediterranean Agronomic Institute of Chania* [MAICh](https://www.iamc.ciheam.org/) and **Doctoral candidate** at *Mouloud Mammeri University of Tizi-Ouzou* [UMMTO](http://www.ummto.dz/).   
    
 I'm from Tizi-Ouzou, Algeria. I spent most of the last six years in Chania, Greece. For more informations see my [Curriculum Vitae](/about/).
    

@@ -16,9 +16,7 @@
 title: Mustapha Lateb 
 email: mustapha.lateb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal website (blog) of Mustapha Lateb. Researcher at MAICh, PhD student at Mouloud Mammeri university UMMTO.
-    Site de Mustapha Lateb. Chercheur à MAICh, doctorant à l Université Mouloud Mammeri UMMTO.
-    Open Source, OsGeo, Python, Geopandas, Rasterio, GDAL, Shapely, Fiona, QGIS, Bash, Git, SQL, HTML, CSS.   
+    Personal website & blog of Mustapha Lateb. Researcher at Mediterranean Agronomic Institute of Chania (MAICh); Doctoral candidate at Mouloud Mammeri university of Tizi-Ouzou (UMMTO).   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MustaphaLateb
