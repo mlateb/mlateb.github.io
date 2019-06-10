@@ -15,7 +15,7 @@ Hi! I'm Mustapha Lateb.
    
 Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
   
-Fun of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
+Fan of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
    
 My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.   
    
